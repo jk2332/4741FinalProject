@@ -5,6 +5,9 @@
 
 
 ## Why the problem is important
+  House owners can have a reference when they are setting the price;
+Consumers feel more comfortable and confident when having better understanding of how prices are determined;
+Airbnb can set regulatory policies regarding prices;
 
 
 ## How the data set will answer our question
